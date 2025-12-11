@@ -1,7 +1,7 @@
 # FinalProjectComputerVision – YOLO-based Computer Vision Project
 
 This repository contains my final project for the **Computer Vision** course at Afeka Academic College of Engineering.  
-The project uses **YOLO** (You Only Look Once) for object detection on a custom dataset.
+The project uses **YOLO** for object detection on a custom dataset.
 
 ---
 
@@ -12,7 +12,7 @@ The project focuses on building an end-to-end pipeline for object detection usin
 - Preparing and organizing a custom dataset in **YOLO format** (images + labels).
 - Training YOLO models (e.g. `yolo11n`, `yolov8m`) on this dataset.
 - Comparing model performance and analyzing detection quality.
-- Running inference on images and/or videos and visualizing the results.
+- Running inference on images and visualizing the results.
 
 The repository is centered around a single Jupyter notebook that contains all the main experiments and analysis.
 
