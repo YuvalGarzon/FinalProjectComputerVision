@@ -1,4 +1,4 @@
-# FinalProjectComputerVision – YOLO-based Computer Vision Project
+# Final Project Computer Vision
 
 This repository contains my final project for the **Computer Vision** course at Afeka Academic College of Engineering.  
 The project uses **YOLO** for object detection on a custom dataset.
